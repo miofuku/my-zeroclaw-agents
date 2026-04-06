@@ -9,7 +9,7 @@ theme:
     - navigation.sections
 
 nav:
-  - Home: index.md
+  - Home: docs/index.md
   - Nova Architecture:
       - Identity: 02-Agents/Nova/IDENTITY.md
       - Soul: 02-Agents/Nova/SOUL.md
