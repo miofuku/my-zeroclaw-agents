@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# 🚀 欢迎来到我的数字实验室
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这是我通过 **ZeroClaw 架构** 构建的个人 Agent 矩阵。
 
-## Commands
+### 为什么我要做这件事？
+在 AI 时代，我追求的不是“使用工具”，而是“拥有资产”。通过将 Agent 逻辑文件化、私有化，我建立了一个可以随我迁移、不断进化的数字参谋部。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 当前主力 Agent：Nova 🎬
+Nova 是我的 **内容炼金术士**。它目前的职责是：
+- 24/7 监控 YouTube 商业情报。
+- 利用金字塔原理，将碎片信息转化为决策简报。
+- 自动化过滤低 ROI 内容，保护我的认知带宽。
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### 目录指引
+- [查看 Nova 的灵魂文件](02-Agents/Nova/SOUL.md)
+- [了解我的踩坑日记](03-Journal/fixing-errors.md)

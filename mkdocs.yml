@@ -1,4 +1,7 @@
 site_name: Miochat's ZeroClaw Lab
+site_description: "基于 ZeroClaw 架构的个人 Agent 实验记录"
+site_author: "miochat"
+
 theme:
   name: material
   palette:
@@ -10,7 +13,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Nova Architecture:
+  - Architecture:
       - Identity: 02-Agents/Nova/IDENTITY.md
       - Soul: 02-Agents/Nova/SOUL.md
       - Skills: 02-Agents/Nova/SKILL.md
